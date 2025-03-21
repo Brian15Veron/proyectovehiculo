@@ -1,0 +1,7 @@
+
+
+# Excluir la carpeta .vscode/ (configuraciones de VS Code)
+.vscode/
+
+# Excluir la carpeta target/ (artefactos generados por Maven)
+node_modules/
