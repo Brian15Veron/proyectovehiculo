@@ -39,7 +39,7 @@ La simulación a modelar es avanzar indicandole una cantidad de kilómetros a re
 Para lanzar un exepción de manera simple y no chequeda pueden hacer
 
 ```
-    throw new RuntimeException("Combustible insuficiente ...")
+    throw new Error("Combustible insuficiente ...")
 ```
 
 ## Test
