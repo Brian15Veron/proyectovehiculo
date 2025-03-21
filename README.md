@@ -1,4 +1,4 @@
-## Simulador de Vehiculos
+## Simulador de Vehículos
 
 ![Simulador](./img/simulador.jpg)
 
